@@ -1,0 +1,9 @@
+.container{
+    border: solid 1px rgb(0, 26, 255);
+}
+.derecha{
+    border: solid 1px rgb(255, 251, 0);
+}
+.izquierda{
+    border: solid 1px rgb(255, 251, 0);
+}

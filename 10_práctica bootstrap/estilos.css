@@ -1,0 +1,105 @@
+.sección-izquierda{
+    border: solid 1px red;
+    width: 30%;
+
+}
+.sección-derecha{
+    border: solid 1px rgb(0, 68, 255);
+    width: 40%;
+}
+.container{
+    border: solid 1px rgb(0, 255, 34);
+}
+.disc1{
+    border: solid 1px rgb(255, 115, 0);
+    width: 120px;
+    height: 120px;
+/*     background-image: url("https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201811/19/00105111495098____1__600x600.jpg"); */
+    background-size: cover;
+    transition: 0.5s all cubic-bezier(0,.53,.99,.46);
+    color: aqua;
+}
+.disc1:hover{
+    background-color: rgba(255, 0, 0, 0.719);
+    color: rgb(255, 255, 255);
+}
+.disc1 > p{
+    color: antiquewhite;
+}
+.disc2{
+    border: solid 1px rgb(255, 115, 0);
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    transition: 0.5s all cubic-bezier(0,.53,.99,.46);
+}
+.disc2:hover{
+    background-color: rgb(255, 0, 0, 0.719);
+    color: white;
+}
+.disc2 > p{
+    color: antiquewhite;
+}
+.disc3{
+    border: solid 1px rgb(255, 115, 0);
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    transition: 0.5s all cubic-bezier(0,.53,.99,.46);
+}
+.disc3:hover{
+    background-color: rgb(255, 0, 0, 0.719);
+    color: white;
+}
+.disc3 > p{
+    color: antiquewhite;
+}
+.disc4{
+    border: solid 1px rgb(255, 115, 0);
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    transition: 0.5s all cubic-bezier(0,.53,.99,.46);
+}
+.disc4:hover{
+    background-color: rgb(255, 0, 0, 0.719);
+    color: white;
+}
+.disc4 > p{
+    color: antiquewhite;
+}
+.disc5{
+    border: solid 1px rgb(255, 115, 0);
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    transition: 0.5s all cubic-bezier(0,.53,.99,.46);
+}
+.disc5:hover{
+    background-color: rgb(255, 0, 0, 0.719);
+    color: white
+}
+.disc5 > p{
+    color: antiquewhite;
+}
+.disc6{
+    border: solid 1px rgb(255, 115, 0);
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    transition: 0.5s all cubic-bezier(0,.53,.99,.46);
+}
+.disc6:hover{
+    background-color: rgb(255, 0, 0, 0.719);
+    color: white;
+}
+.disc6 > p{
+    color: antiquewhite;
+}
+.boton1{
+    background-color: #1DB954;
+    border-radius: 80px;
+    color: white;
+    font-size: 16px;
+    
+}

@@ -1,0 +1,35 @@
+.container{
+    border: solid 2px red;
+
+}
+.row{
+    border: solid 1px blue;
+    display: flex;
+}
+.d-flex{
+    display: flex;
+}
+.logo{
+    width: 100px;
+
+}
+body{
+    background-color: black;
+}
+.btn{
+    border-radius: 0 !important;
+    background-color: black;
+    border: solid 1px white;
+}
+.btn:hover{
+    border: solid 1px white;
+    background-color: rgb(255, 255, 255);
+    border: solid 1px rgb(5, 5, 5);
+}
+.card{
+    background-color: transparent;
+}
+.card > img{
+    border: solid 1px white;
+}
+

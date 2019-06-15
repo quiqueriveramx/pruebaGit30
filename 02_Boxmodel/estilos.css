@@ -1,0 +1,39 @@
+div{
+    border: solid 1px red
+}
+.Hola{
+    border: solid 1px rgb(38, 122, 17);
+}
+h1{
+    border: solid 1px blue;
+    display: inline-block;
+    height: 38px;
+background-color: red;
+padding: 20px 10px 15px 15px;
+margin: 90px;
+font-family: Abel;
+}
+p{
+    border: solid 1px green;
+    display: inline-block;
+    height: 100px;
+    color: blueviolet;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+a{
+    border: solid 1px black;
+    display: inline-block
+}
+#Caja1ID{
+    background-color: aquamarine;
+    width: 600px;
+    height: 300px;
+}
+.caja2{
+    border: solid 1px purple;
+    }
+.imagenusuario{
+    width: 30px;
+    height: 30px;
+}
